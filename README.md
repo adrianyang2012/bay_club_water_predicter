@@ -1,5 +1,8 @@
 # bay_club_water_predicter
-Recently I created a water predictor at bay club so I made a model with the data. Every day we went   swimming there we took a picture of the number of water. The machine counts the amount of bootles filled and we thought it was intresting so Me and my Dad went to start taking pictures of the number of water bootles filled.
+Recently when I was swimming at bay club we refilled water at a water bottle refueler. We tried to guess that amount of water bootles that the machine filled.
+So I created a water predictor at bay club so I made a model with the data. 
+Every day we went  swimming there we took a picture of the number of water. 
+The machine counts the amount of bootles filled and we thought it was intresting so me and my Dad went to start taking pictures of the number of water bootles filled.
 ## What we did
 Here are the pictures we took:
 
