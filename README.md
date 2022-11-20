@@ -24,6 +24,6 @@ I used scikit learn to predict the numbers and plotted it on a graph.
 I used a linear reggresion model to predict the numbers.
 <img src = "https://user-images.githubusercontent.com/69127002/202874990-04c2096c-c6a1-4826-9249-d1c83cca4c24.png" width = "300" height = "200" />
 
-We got the result : 170595 And For the actual result we got 170575
+We got the result : 170595 And For the actual result for the fourth week was 170575
 The loss was 20!
 The Prediction was very close!
